@@ -1,13 +1,8 @@
-## 系统分析与设计
+# 系统分析与设计
 
 
-### 平时作业
+## 平时作业
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 第一章 OOAD简介 软件的本质与软件工程学
+[第一章作业](homework1.md)
 
-```markdown
-Syntax highlighted code block
-
-[第一次作业](homework1.md)
-
-```
