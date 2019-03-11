@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/16340206/16340206.github.i
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-[pie](pie/pie.html)
+[hw1](hw1)
 
 ### Markdown
 
