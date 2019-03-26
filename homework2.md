@@ -51,6 +51,11 @@
   
   + UML绘图工具练习（提交贴图，必须使用 UMLet）
   
+    ![UML绘图工具练习1](temp/4.png)
+    ![UML绘图工具练习2](temp/5.png)
+    ![UML绘图工具练习3](temp/6.png)
+    ![UML绘图工具练习4](temp/7.png)
+    
   
        
        
