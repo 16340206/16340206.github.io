@@ -10,6 +10,10 @@
   
   + 给出 make reservation 用例的活动图
   
+    ![活动图_make reservation](temp/7_2.png)
+  
+  
+  
   
   
   
