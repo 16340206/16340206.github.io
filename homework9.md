@@ -31,10 +31,11 @@
    ![领域模型_payment](temp/8_1_2.png)
 
    **数据建模**
-    + Payment (ID/Key, ReservationID/FKey, Total, Options)
-    + PaymentItem (ID/Key, PaymentID/FKey, Total, Detail)
-    + CreditCard (ID/Key, CardholderID/FKey, Type, Number, Code, ExpiryDate)
-    + CardHolder(ID/Key, FirstName, LastName, Address, City, State, Counrty, Postcode, Telephone)
+   
+   + Payment (ID/Key, ReservationID/FKey, Total, Options)
+   + PaymentItem (ID/Key, PaymentID/FKey, Total, Detail)
+   + CreditCard (ID/Key, CardholderID/FKey, Type, Number, Code, ExpiryDate)
+   + CardHolder(ID/Key, FirstName, LastName, Address, City, State, Counrty, Postcode, Telephone)
   
   
 2. 使用 UML State Model，对每个订单对象生命周期建模
