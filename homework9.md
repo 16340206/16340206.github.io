@@ -20,19 +20,20 @@
  ![领域模型_make_reservation](temp/8_1_1.png)
  
 **数据建模**
- + Hotel (ID/Key, LocationID/FKey, name, address, /favourites, /lowestPrice, star-rating, info)
- + Location (ID/Key, name, Type)
+ + Hotel (ID/Key, LocationID/FKey, Name, Address, /Favourites, /LowestPrice, StarRating, Info)
+ + Location (ID/Key, Name, Type)
  + Customer (ID/Key, Name)
- + Reservation (ID/Key, CustomerID/FKey, check-in-date, number-of-nights, customer-full-name, customer-email.., /total)
- + OrderItem(ID/Key, ReservationID/FKey, HotelID/FKey, types, adults, children, age_from_to)
- + Room(ID/Key, HotelID/FKey, type, date, /price, /isAvailiable, /avaiiable-num, /reserved-num)
- + RoomDescription(ID/Key, RoomID/FKey, type, list-price, info)
- + RoomType(ID/Key, RoomDecsID/FKey)
+ + Reservation (ID/Key, CustomerID/FKey, CheckInDate, NumberOfNights, CustomerFullName, CustomerEmail.., /Total)
+ + OrderItem(ID/Key, ReservationID/FKey, HotelID/FKey, Types, Adults, Children, AgeFromTo)
+ + Room(ID/Key, HotelID/FKey, Type, Date, /Price, /isAvailiable, /AvaiiableNum, /ReservedNum, Type, ListPrice, Info)
  
  **Pyament领域模型：**
+ ![领域模型_payment](temp/8_1_2.png)
  
- 
- 
-
+ **数据建模**
+  + Payment (ID/Key, ReservationID/FKey, Total, Options)
+  + PaymentItem (ID/Key, PaymentID/FKey, Total, Detail)
+  + CreditCard (ID/Key, CardholderID/FKey, Type, Number, Code, ExpiryDate)
+  + CardHolder(ID/Key, FirstName, LastName, Address, City, State, Counrty, Postcode, Telephone)
   
 
