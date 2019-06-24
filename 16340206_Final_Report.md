@@ -7,7 +7,7 @@
 说明书的部分内容，并在项目的最终阶段对程序进行了测试，同时提出了一些改进意见。
 
 ## P2P2.1统计
-| PSP 2.1 | Personal Software Process Stages	 | 16340206  |
+| PSP 2.1 | Personal Software Process Stages	 | 16340206  | 
 | :---------------: | :---------------: |:------: | 
 |  **Planning**   |     **计划**       | **10**  |  
 |  estimate   |    预估任务时间        | 10 |   
@@ -17,7 +17,7 @@
 | estimate    |      设计复审（与前端团队成员审核设计文档）      | 2  |  
 |  coding standard   |      代码规范      | 4 |
 |   design  |     具体设计，包括绘制 UI，设计架构等       | 10 |   
-|  coding   |    具体编码        | 30 |
+|  coding   |    具体编码        | 30 | 
 |  code review   |     代码复审       | 5 |  
 |  test   |     测试（修改代码）       | 10 |   
 |  **Report**   |     **报告**       | **12** |   
